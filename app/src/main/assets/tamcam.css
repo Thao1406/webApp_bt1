@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e0ccb8;
+    margin: 0;
+    padding: 0;
+}
+
+.story {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #f1f4ea;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #8e6217;
+}
+
+p {
+    color: #161515;
+    line-height: 1.5;
+}
